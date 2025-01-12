@@ -1,3 +1,4 @@
+![Credit Card Fraud Detection](a0a080f42e6f13b3a2df133f073095dd.webp)
 
 # Credit Card Fraud Detection
 
